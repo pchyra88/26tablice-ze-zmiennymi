@@ -1,8 +1,8 @@
-var text = "11";
-console.log(text);
-var text = "12";
-console.log(text);
-var number = 13;
-console.log(number);
-var arry = [11,12,13];
-console.log(arry)
+let pierwszaZmiana = 1;
+console.log(pierwszaZmiana);
+let drugaZmiana = 3;
+console.log(drugaZmiana);
+let trzeciaZamina = 27;
+console.log(trzeciaZamina);
+var TabliceZmiennych = [pierwszaZmiana,drugaZmiana,trzeciaZamina];
+console.log(TabliceZmiennych)
